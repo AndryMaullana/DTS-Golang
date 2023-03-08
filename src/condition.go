@@ -15,4 +15,5 @@ func main() {
 	} else {
 		fmt.Println("Kamu Belum Boleh Membuat Kartu Sim") // kondisi dimana jika bernilai true
 	}
+
 }
